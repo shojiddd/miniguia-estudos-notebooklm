@@ -1,0 +1,184 @@
+🗓️ SEMANA 1: Alicerces da Gestão e Lógica Inicial
+
+Dia 1: Scrum — Framework vs. Processo e a Complexidade
+Conceito: O Scrum é um framework (moldura de trabalho), o que o diferencia de um processo tradicional por ser intencionalmente incompleto. Enquanto um processo busca prescrever cada passo de forma rígida, o framework fornece as regras base (papéis, eventos e artefatos) para que o time acople suas próprias práticas. Ele é ideal para problemas complexos (onde há mais incerteza do que conhecimento), frequentemente descritos como ambientes VUCA (Volatilidade, Incerteza, Complexidade e Ambiguidade).
+Termos: Empirismo (decisões baseadas na experiência), Auto-organização.
+Revisão: Por que o Scrum é mais eficaz que um plano rígido em ambientes de mudança constante?.
+
+Dia 2: ITIL — O que é um Serviço e Co-criação de Valor
+Conceito: Um serviço é um meio de permitir a co-criação de valor facilitando os resultados que os clientes desejam, sem que eles precisem gerenciar custos e riscos técnicos específicos. O foco mudou de "entregar algo pronto" para a co-criação, onde provedor e cliente colaboram para que o serviço seja útil.
+Termos: Valor (utilidade + garantia), Stakeholder (parte interessada).
+Conexão: O valor definido no ITIL orienta o que o time Scrum deve priorizar para o cliente.
+
+Dia 3: Python — Anatomia da Linguagem e Ambiente
+Conceito: Python é uma linguagem de alto nível (próxima à fala humana) e interpretada. Diferente de linguagens compiladas, o computador lê o código linha por linha em tempo real via um interpretador. O VS Code (IDE) é onde você escreve; as extensões facilitam o preenchimento automático (IntelliSense).
+Prática: Instalação e o comando print() (função de saída de dados).
+Revisão: Qual a vantagem de uma linguagem ser interpretada para iniciantes?.
+
+Dia 4: Microsoft Planner — O Método Kanban e Buckets
+Conceito: O Planner organiza o trabalho via Kanban, um sistema visual japonês para gerenciar o fluxo de tarefas. O Plano é o contêiner principal. Os Buckets (baldes) são as colunas que categorizam o trabalho (ex: "A Fazer", "Fazendo", "Concluído").
+Prática: Criar um Plano particular e definir os primeiros Buckets.
+Conexão: O Planner servirá para dar visibilidade aos ciclos (Sprints) do Scrum.
+
+Dia 5: Scrum — O Manifesto Ágil e seus Valores
+Conceito: Criado em 2001, o Manifesto Ágil dita que indivíduos e interações são mais importantes que processos e ferramentas; responder a mudanças é mais vital que seguir um plano.
+Termos: Mindset Ágil, Iterativo e Incremental.
+Revisão: Como o valor "Software funcionando mais que documentação abrangente" se aplica à gestão administrativa?.
+
+🗓️ SEMANA 2: Estruturas, Papéis e Gestão de Dados
+
+Dia 6: Scrum — Os 3 Papéis Fundamentais
+Conceito: O Product Owner (PO) foca no "o quê" (valor de negócio/prioridade); o Scrum Master (SM) foca no "processo" (líder servidor/facilitador); os Desenvolvedores focam no "como" (equipe técnica autogerida). O time deve ser multifuncional (ter todas as habilidades necessárias) e pequeno (até 10 pessoas).
+Revisão: Quem tem a palavra final sobre a ordem das tarefas no Backlog?.
+
+Dia 7: ITIL — As 4 Dimensões do Gerenciamento
+Conceito: Para garantir valor, o ITIL v5 analisa: 1. Organizações e Pessoas; 2. Informação e Tecnologia; 3. Parceiros e Fornecedores; 4. Fluxos de Valor e Processos. Ignorar uma dimensão pode causar falhas no serviço (ex: ter a tecnologia, mas não ter pessoas treinadas).
+Termos: Abordagem Holística, Fluxo de Valor.
+
+Dia 8: Python — Variáveis e Tipagem Dinâmica
+Conceito: Variáveis são espaços na memória para guardar dados temporariamente. Python usa tipagem dinâmica, ou seja, você não precisa dizer se o dado é texto ou número; o Python descobre sozinho.
+Tipos Primitivos: int (inteiro), float (decimal), str (texto), bool (True/False).
+Prática: Criar variáveis nome = "João" e idade = 25 e usar print(type(nome)).
+
+Dia 9: Planner — Anatomia do Cartão e Prioridades
+Conceito: O Cartão de Tarefa é o objeto de informação. Campos essenciais: Título, Atribuição (quem faz), Datas (início/fim) e Prioridade (Urgente, Importante, Média, Baixa).
+Dica Profissional: O time deve alinhar o que significa "Urgente" para evitar que tudo vire prioridade máxima.
+Prática: Criar tarefas e atribuí-las a membros da equipe.
+
+Dia 10: Integração — Mapeando o SVS no Planner
+Projeto: Use os Buckets do Planner para representar as 4 Dimensões do ITIL ou as etapas de um fluxo de valor.
+Python: Crie um script que declare o nome de um serviço e seu SLA (ex: disponibilidade = 99.9) e exiba uma mensagem formatada.
+
+🗓️ SEMANA 3: Ciclos de Execução e Tomada de Decisão
+
+Dia 11: Scrum — A Sprint e o Planejamento
+Conceito: A Sprint é o coração do Scrum, um ciclo de tempo (1 a 4 semanas) onde se entrega algo útil. Começa com o Sprint Planning, onde se define o Sprint Goal (objetivo do ciclo).
+Termos: Timebox (tempo limite fixo), Velocidade do time.
+Revisão: O que acontece se o objetivo da Sprint for alterado no meio do ciclo?.
+
+Dia 12: ITIL — Gestão de Incidentes e Service Desk
+Conceito: Um Incidente é uma interrupção não planejada de um serviço. O Service Desk é o ponto único de contato (canal de comunicação) entre usuários e TI.
+Prática: No Planner, crie um Bucket "Incidentes" e use rótulos para indicar a gravidade.
+
+Dia 13: Python — Estruturas Condicionais (if/elif/else)
+Conceito: Permite que o programa tome decisões baseadas em testes lógicos. A indentação (espaço à esquerda) é obrigatória em Python para definir o que está dentro da condição.
+Exemplo: if prioridade == "Urgente": print("Atender agora!").
+Revisão: Para que serve o elif?.
+
+Dia 14: Planner — Visualizações (Quadro, Grade e Gráficos)
+Conceito: O Planner oferece diferentes formas de ver o mesmo trabalho: Quadro (Kanban), Grade (Lista detalhada), Gráficos (estatísticas de progresso) e Agenda (calendário).
+Prática: Usar a aba Gráficos para ver quem do time tem mais tarefas pendentes.
+
+Dia 15: Scrum — Daily Scrum e Inspeção
+Conceito: Uma reunião diária de 15 minutos para os desenvolvedores alinharem o trabalho do dia e identificarem impedimentos. Não é prestação de contas, mas sincronização técnica.
+Termos: Impedimento (bloqueio), Plano de 24 horas.
+
+🗓️ SEMANA 4: Entrega, Qualidade e Automação
+
+Dia 16: Scrum — Artefatos (Backlog e Incremento)
+Conceito: O Product Backlog é a lista mestre; o Sprint Backlog é o plano para o ciclo; o Incremento é a entrega final "Pronta".
+Termos: Definition of Done (DoD) — o compromisso de qualidade que diz que a tarefa está realmente terminada.
+Revisão: Por que o incremento deve ser usável ao fim de cada Sprint?.
+
+Dia 17: ITIL — Habilitação de Mudanças e Problemas
+Conceito: Mudança é qualquer adição ou modificação em um serviço; o foco é gerenciar riscos. Problema é a causa raiz de incidentes repetitivos; foca em solução definitiva.
+Conexão: Use o Python para filtrar uma lista de erros e identificar se um "Problema" deve ser aberto.
+
+Dia 18: Python — Estruturas de Repetição (for/while)
+Conceito: Loops automatizam tarefas repetitivas. O while repete enquanto uma condição for verdadeira; o for percorre sequências (como uma lista de tarefas).
+Prática: Usar for item in lista: para imprimir todos os elementos de uma lista de usuários.
+
+Dia 19: Planner Premium e Integração Teams
+Conceito: O Planner Premium traz visualização de Cronograma (Gantt), dependências entre tarefas e Caminho Crítico (tarefas que não podem atrasar). Integração com o Teams centraliza a comunicação em um único canal.
+IA: O Copilot permite criar planos e tarefas via comandos de texto.
+
+Dia 20: Sinergia Final e Carreira
+Síntese: Você agora entende que o ITIL governa, o Scrum executa em ciclos, o Planner visualiza e o Python automatiza.
+Mercado: Profissionais que unem gestão ágil e automação com Python são altamente valorizados para cargos de coordenação e operações de TI (DevOps/SRE)
+
+🗓️ SEMANA 5: Automação Avançada e Integração via API (Carga: 5h)
+Foco: Python como ponte de integração.
+
+Dia 21: Python — Consumo de APIs REST e Requests
+Conceito: No nível intermediário, você deixa de processar apenas arquivos locais e passa a consumir dados da web. Utilizaremos a biblioteca requests para fazer chamadas HTTP (GET, POST).
+
+Termos: API Endpoint, JSON (formato de troca de dados), Status Codes (ex: 200 OK, 404 Not Found).
+
+Dia 22: Planner — O Ecossistema Microsoft Graph
+Conceito: Entender que o Planner pode ser controlado via código através da API do Microsoft Graph.
+Limitação Importante: A API do Graph atualmente suporta apenas tarefas de planos básicos (Standard), não planos Premium.
+
+Dia 23: Python — Manipulação Avançada de Dados com List Comprehension
+Conceito: Refinar a lógica de loops para criar listas de forma concisa e performática.
+Prática: Criar uma lista de nomes de incidentes ITIL filtrando apenas os que contêm a palavra "Erro".
+
+Dia 24: SCRUM — Métricas de Fluxo e Velocidade
+Conceito: Além de rodar a Sprint, um profissional intermediário analisa o Lead Time (tempo total desde o pedido até a entrega) e o Cycle Time (tempo de execução).
+
+Dia 25: ITIL — Mapeamento de Fluxos de Valor (Value Streams)
+Conceito: Aprender a desenhar a jornada que uma demanda percorre desde a "Oportunidade" até o "Valor", cruzando as atividades da Cadeia de Valor de Serviço.
+
+🗓️ SEMANA 6: Escalabilidade e Gestão de Riscos (Carga: 4h)
+Foco: Gestão de múltiplos projetos e times.
+
+Dia 26: SCRUM — Scaling Scrum e o Framework Nexus
+Conceito: Como aplicar Scrum quando você tem de 3 a 9 times trabalhando no mesmo Backlog de Produto.
+Termos: Nexus Integration Team, Cross-team dependencies.
+
+Dia 27: Planner Premium — Gestão de Portfólio e Dependências
+Conceito: Uso da visualização de Linha do Tempo (Gantt) para gerenciar dependências entre tarefas de diferentes times.
+Prática: Criar dependências onde a Tarefa B só inicia após a conclusão da Tarefa A.
+
+Dia 28: ITIL — Gestão de Riscos e Continuidade de Serviço
+Conceito: Planejar como a TI deve reagir em casos de desastres ( Disaster Recovery ) e como minimizar o impacto de mudanças de alto risco.
+
+Dia 29: Python — Tratamento de Exceções Robusto (try/except/finally)
+Conceito: Criar scripts que não quebram ao encontrar erros inesperados, usando o bloco finally para fechar conexões de banco de dados ou arquivos.
+
+Dia 30: Projeto Prático: Automação de Relatórios
+Ação: Criar um script Python que lê um arquivo JSON de tarefas, identifica quais estão "Atrasadas" (via If/Else) e imprime um resumo formatado.
+
+🗓️ SEMANA 7: Governança de IA e Inteligência Estratégica (Carga: 3h30)
+Foco: A evolução do ITIL v5 e IA.
+
+Dia 31: ITIL v5 — Governança de Inteligência Artificial
+Conceito: O ITIL v5 trata a IA como parte intrínseca do serviço. Estudaremos ética digital e como garantir que a IA gere valor sem comprometer a conformidade.
+
+Dia 32: SCRUM — Evidenced-Based Management (EBM)
+Conceito: Usar medidas reais (Valor Atual, Valor Irrealizado, Tempo de Mercado) para guiar as decisões do Product Owner.
+
+Dia 33: Planner — Inteligência Artificial com Copilot
+Conceito: Utilizar prompts de linguagem natural para que o Copilot crie automaticamente planos de projeto baseados em metas de negócio.
+
+Dia 34: Python — Introdução a Bibliotecas de Dados (Pandas/NumPy)
+Conceito: Profissionais intermediários em TI usam o Python para analisar grandes volumes de métricas de service desk. Instalação e criação de DataFrames simples.
+
+Dia 35: SCRUM — O Papel do Líder Ágil (PAL)
+Conceito: Como a liderança apoia os times ágeis criando o ambiente necessário para a auto-organização.
+
+🗓️ SEMANA 8: Consolidação e Preparação para Certificação (Carga: 5h)
+Foco: Simulação de mercado e validação de conhecimento.
+
+Dia 36: Integração Total — O Ecossistema em Ação
+Cenário: Um incidente crítico ocorre (ITIL), o PO prioriza no topo do Backlog (Scrum), o time visualiza no Planner Premium (Planner) e o Python extrai os dados para o dashboard da diretoria (Python).
+
+Dia 37: Simulado de Certificação PSM I e PSPO I
+Ação: Realizar os Open Assessments da Scrum.org para validar a proficiência conceitual (exige 85% de acerto).
+
+Dia 38: Simulado ITIL 4/5 Foundation
+Ação: Revisar as 4 Dimensões e os 7 Princípios Orientadores (exige 65% de acerto no exame real).
+
+Dia 39: Python — Programação Orientada a Objetos (Básico)
+Conceito: Organizar o código em Classes e Objetos para representar entidades como "Serviço", "Usuário" ou "Tarefa".
+
+Dia 40: Carreira e Portfólio no GitHub
+Conceito: Documentar todos os scripts e planos criados neste repositório. O mercado valoriza a "Sinergia Operacional" acima do conhecimento isolado de ferramentas.
+
+🚀 Perguntas de Revisão para Nível Intermediário:
+Qual a principal diferença entre o Gerenciamento de Mudanças tradicional e a Habilitação de Mudanças do ITIL 4/5?
+Em um ambiente Nexus (Scrum em escala), qual o objetivo principal do Nexus Integration Team?
+Por que a biblioteca requests é essencial para automatizar tarefas do Microsoft Planner via Python?
+Como a visualização de "Caminho Crítico" no Planner Premium auxilia o gestor de projetos?
+.
+Próximo Passo: Buscar as certificações PSM I (Scrum) e ITIL 5 Foundation para validar esses conhecimentos
+.
