@@ -1,0 +1,125 @@
+Glossário Técnico: Scrum, ITIL, Python e Microsoft Planner para Estudantes
+
+1. Introdução ao Glossário
+
+No dinâmico mercado de tecnologia atual, a fluência em terminologias técnicas não é apenas um diferencial, mas um requisito fundamental. A interconexão entre metodologias ágeis (Scrum), governança de serviços (ITIL), programação (Python) e ferramentas de produtividade (Microsoft Planner) cria um ecossistema de trabalho onde a comunicação clara e a precisão técnica são essenciais para o sucesso de qualquer projeto digital.
+
+Este glossário foi estruturado para atuar como uma ponte entre o conhecimento acadêmico e a realidade corporativa. Ao dominar estes termos, o estudante ganha confiança para colaborar em equipes multidisciplinares e compreender como cada peça — desde uma linha de código até uma cerimônia de gestão — contribui para a entrega de valor ao cliente final.
+
+Lembre-se: o Scrum, por exemplo, é frequentemente descrito como "leve, simples de entender, mas difícil de dominar". Essa premissa estende-se às outras áreas aqui abordadas. A teoria é o ponto de partida, mas a maestria vem da aplicação prática e da compreensão profunda dos processos que regem o desenvolvimento moderno.
+
+2. CATEGORIA 1: GESTÃO ÁGIL COM SCRUM
+
+* Ciclo de Entrega (Sprint): Um intervalo de tempo fixo (geralmente de 2 a 4 semanas) durante o qual um incremento de produto utilizável é criado. Aplicação Prática: Uma equipe de desenvolvimento define um período de duas semanas para finalizar e testar o sistema de filtros de um e-commerce.
+* Cycle Time: O tempo que uma tarefa leva para ser concluída desde o momento em que o trabalho efetivamente começa. Aplicação Prática: Monitorar que, após um desenvolvedor iniciar a codificação, a tarefa leva 48 horas para chegar à revisão.
+* Daily Scrum: Reunião diária de 15 minutos para alinhar atividades e identificar impedimentos. Aplicação Prática: O time se reúne em pé, todas as manhãs, para compartilhar o progresso e sinalizar se algo está bloqueando o trabalho.
+* História de Usuário (User Story): Uma descrição leve de uma funcionalidade sob a perspectiva do usuário final. Aplicação Prática: Registrar no sistema: "Como cliente, quero salvar itens favoritos para comprá-los mais tarde".
+* Incremento: A soma de todos os itens do Backlog concluídos durante a Sprint, resultando em uma versão funcional do produto. Aplicação Prática: Ao fim do ciclo, a funcionalidade de "esqueci minha senha" é adicionada ao aplicativo principal.
+* Lead Time: O tempo total decorrido desde o registro do pedido ou ideia até a entrega final ao cliente. Aplicação Prática: Medir que uma sugestão do cliente levou 15 dias entre o registro no portal e a disponibilização em produção.
+* Manifesto Ágil: Documento que define os quatro valores centrais e doze princípios para o desenvolvimento ágil. Aplicação Prática: Priorizar a resposta rápida a mudanças de mercado em vez de seguir rigidamente um plano estático de seis meses.
+* Melhoria Contínua: Filosofia de aprimoramento constante de processos, baseada no feedback de cada ciclo. Aplicação Prática: Utilizar a retrospectiva para identificar que a comunicação falhou e decidir usar um canal específico no Teams.
+* Product Backlog: Uma lista ordenada de tudo o que é necessário no produto, servindo como fonte única de requisitos. Aplicação Prática: O PO mantém uma lista de 50 itens, movendo as correções críticas para o topo antes do planejamento.
+* Product Owner (PO): O responsável por maximizar o valor do produto e gerenciar as prioridades do Backlog. Aplicação Prática: Decidir que o lançamento da versão mobile é mais importante para o negócio do que uma nova funcionalidade no site desktop.
+* Scrum Master: Líder servidor que garante que o time compreenda e aplique os valores do Scrum, removendo obstáculos. Aplicação Prática: Facilitar a resolução de um conflito técnico ou conseguir acesso a um servidor que estava impedindo o progresso do time.
+* Sprint Backlog: O conjunto de itens selecionados para a Sprint atual, incluindo o plano para entregá-los. Aplicação Prática: O time seleciona 10 tarefas do Backlog Geral para focar exclusivamente nos próximos 15 dias.
+* Sprint Planning: Cerimônia de planejamento onde o time define o que será feito no próximo ciclo e como o trabalho será realizado. Aplicação Prática: A equipe debate a complexidade das tarefas e define o "Objetivo da Sprint" de forma colaborativa.
+* Sprint Retrospective: Reunião focada no processo e nas pessoas para planejar melhorias para a próxima Sprint. Aplicação Prática: O time discute como reduzir o tempo de espera por revisões de código de outros membros.
+* Sprint Review: Cerimônia para inspecionar o incremento entregue e adaptar o Product Backlog com feedback dos stakeholders. Aplicação Prática: Demonstrar o novo painel de relatórios para os diretores e anotar sugestões de ajustes imediatos.
+* Time de Desenvolvimento (Team): Grupo multidisciplinar (cross-functional) de profissionais que realizam o trabalho técnico de entrega do incremento. Aplicação Prática: Programadores, designers e especialistas em QA colaborando sem silos para entregar uma funcionalidade completa.
+* Times Autogeridos: Equipes que possuem autonomia para decidir quem faz o quê e como o trabalho será executado tecnicamente. Aplicação Prática: O time escolhe a melhor biblioteca de software para resolver um problema sem precisar de aprovação de um gerente externo.
+* Velocidade (Velocity): Métrica que rastreia a quantidade de trabalho que o time entrega em média por Sprint. Aplicação Prática: Utilizar a média de 30 pontos das Sprints anteriores para prever a entrega de futuras Sprints e gerenciar expectativas de prazos.
+
+3. CATEGORIA 2: GOVERNANÇA E SERVIÇOS DE TI (ITIL V4 E V5)
+
+A governança evoluiu da eficiência operacional para a inteligência estratégica e ética digital.
+
+3.1 Fundamentos (ITIL 4)
+
+* Cocriação de Valor: O valor não é apenas entregue, mas criado mutuamente entre o provedor e o consumidor através de colaboração ativa.
+* Sistema de Valor de Serviço (SVS): Estrutura que descreve como todos os componentes da organização trabalham juntos para facilitar a criação de valor.
+* 4 Dimensões da Gestão de Serviço: Abordagem holística focada em: 1. Organizações e Pessoas; 2. Informação e Tecnologia; 3. Parceiros e Fornecedores; 4. Fluxos de Valor e Processos.
+* Princípios Norteadores: Recomendações práticas (ex: Focar no Valor, Começar onde você está) que guiam a tomada de decisão em qualquer circunstância.
+
+3.2 Atividades da Cadeia de Valor (Fluxo Dinâmico)
+
+O fluxo dinâmico da ITIL integra atividades essenciais para transformar demanda em valor:
+
+* Discover (Descobrir): Identificar oportunidades e necessidades reais do mercado e dos usuários.
+* Engajar: Manter um bom entendimento das necessidades dos stakeholders.
+* Planejar: Garantir uma visão compartilhada da direção e dos objetivos.
+* Desenho e Transição: Garantir que produtos e serviços atendam às expectativas de custo e qualidade.
+* Acquire/Build (Obter/Construir): Garantir que os componentes estejam disponíveis quando necessários.
+* Entrega e Suporte: Garantir que os serviços operem conforme acordado.
+* Operate (Operar): Garantir a estabilidade e o funcionamento contínuo do ecossistema de serviços.
+* Melhorar: Assegurar o aprimoramento contínuo em todas as atividades.
+
+3.3 O Diferencial ITIL 5: A Era da IA
+
+A ITIL 5 eleva a IA de uma ferramenta de automação para um ecossistema governado, focando na experiência e na ética.
+
+Aspecto	ITIL 4	ITIL 5
+Foco Principal	Gestão de Processos e Serviços	Governança de IA, Ética e Valor Inteligente
+Métricas	Eficiência de TI (SLAs e KPIs)	Measurement Clarity (Financeira, Emocional e Sustentabilidade)
+IA	Sugestão de Automação	Governança de Viés (Bias) e Transparência Humano-IA
+Conceito Chave	Sistema de Valor de Serviço (SVS)	Jornada do Serviço (Service Journey) e Experiência do Cliente
+
+* Jornada do Serviço (Service Journey): Diferente de uma transação isolada, foca no ciclo de vida completo da experiência do usuário, unindo o Service Management à estratégia de CX (Customer Experience).
+
+4. CATEGORIA 3: PROGRAMAÇÃO E LÓGICA COM PYTHON
+
+4.1 Conceitos de Linguagem
+
+* Linguagem Interpretada: O código é executado linha por linha, facilitando a portabilidade e testes rápidos sem necessidade de compilação prévia.
+* Zen of Python: Filosofia de design que prioriza a legibilidade e simplicidade (ex: "Explícito é melhor que implícito").
+* Indentação: Em Python, o recuo é sintático, ou seja, define a estrutura do código. A ausência de indentação correta gera um IndentationError.
+* Casting: Ato de converter um tipo de dado em outro (ex: transformar a string "5" em um inteiro 5 usando int()).
+
+4.2 Tipos de Dados e Variáveis
+
+* int / float: Números inteiros e decimais (lembre-se: 4/2 sempre resulta em 2.0, um float).
+* str / bool: Textos (strings) e valores lógicos (True/False).
+* list / tuple: Listas são mutáveis []; Tuplas são imutáveis ().
+* complex: Números complexos. Python usa a letra j para representar a parte imaginária (ex: 1 + 2j).
+
+4.3 Operadores e Controle
+
+* Operadores Aritméticos: +, -, *, / (divisão real), // (divisão inteira), % (módulo).
+* Operadores Lógicos: and, or, not (usados para validar múltiplas condições).
+* Estruturas de Controle: if, elif, else (decisão); while e for (repetição).
+
+Destaque Técnico: f-strings Formatação simplificada de strings usando f"texto {variável}". Elas permitem expressões matemáticas diretamente nas chaves, como f"O dobro é {2 * 5}".
+
+5. CATEGORIA 4: PRODUTIVIDADE COM MICROSOFT PLANNER
+
+Recursos de Organização (Recursos Básicos)
+
+* Buckets: Colunas para categorizar tarefas (ex: "Prioridade Máxima", "Aguardando Terceiros").
+* Tarefas: Unidade básica de trabalho com datas, anotações e checklists.
+* Rótulos (Labels): Etiquetas coloridas para identificação visual rápida de temas ou departamentos.
+
+Recursos de Planejamento (Exclusivos de Planos Premium)
+
+* Linha do Tempo (Gantt): Visualiza tarefas e dependências em um cronograma interativo.
+* Caminho Crítico: Destaca as tarefas essenciais que definem a duração total do projeto.
+* Metas (Goals): Permite vincular tarefas a objetivos estratégicos de longo prazo.
+* Campos Personalizados: Criação de campos específicos (texto, data, número) para rastrear dados exclusivos do seu negócio.
+
+Visualização e IA
+
+* People View: Visualização focada em pessoas, vital para que gestores identifiquem sobrecarga de trabalho e redistribuam tarefas.
+* Copilot no Planner: Agente de IA que permite criar planos completos, definir metas e rastrear status a partir de um único prompt.
+* Integração: Sincronização nativa com Microsoft Teams e calendários do Outlook.
+
+6. QUADRO RESUMO: SINERGIA ENTRE AS ÁREAS
+
+1. Um Product Owner (Scrum) define uma meta estratégica no Planner (Premium), desdobrando-a em tarefas para o time.
+2. Um desenvolvedor utiliza Python para automatizar um relatório de Measurement Clarity (ITIL 5), analisando o valor financeiro da entrega.
+3. Durante a Daily Scrum, o time utiliza a People View no Planner para garantir que ninguém esteja sobrecarregado, respeitando a Cocriação de Valor (ITIL).
+
+7. DICAS DE ESTUDO E CONSULTA RÁPIDA
+
+* Atenção ao Casting: Lembre-se que o comando input() em Python sempre retorna uma string. Use int(input()) ou float(input()) para realizar cálculos numéricos e evitar erros.
+* Prática de Código: Instale o VS Code com a extensão oficial de Python para ganhar recursos de autocomplete e identificação de erros de indentação em tempo real.
+* Uso de Templates: Explore os modelos (templates) prontos no Planner e Microsoft Project para entender como estruturas de Scrum ou lançamentos de produtos são organizadas no mercado.
+* Mentalidade ITIL 5: Ao planejar tarefas no Planner, não foque apenas no "fazer", mas pergunte-se: "Qual o valor emocional ou de sustentabilidade desta entrega para o cliente?".
+* IA no Planejamento: Use o Copilot para gerar rascunhos iniciais de planos de projeto e foque seu tempo no refinamento estratégico e na remoção de impedimentos.
