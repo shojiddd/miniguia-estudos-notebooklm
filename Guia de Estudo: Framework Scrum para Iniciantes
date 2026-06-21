@@ -1,0 +1,104 @@
+Guia de Estudo: Framework Scrum para Iniciantes
+
+1. Definição e Conceitos Fundamentais
+
+Como seu treinador, o primeiro passo que quero que você dê é abandonar a ideia de que o Scrum é uma "receita de bolo" ou um manual de instruções rígido. Na verdade, o Scrum é um framework — uma estrutura de suporte flexível baseada em princípios.
+
+Diferente de um "processo" tradicional, que costuma ser estático e detalhado, o framework fornece as fronteiras dentro das quais as pessoas podem abordar problemas complexos e adaptativos. Ele foi desenhado especificamente para lidar com a imprevisibilidade, onde as mudanças não são apenas esperadas, mas bem-vindas.
+
+"Lightweight, Simple to understand, Difficult to master" (Leve, simples de entender, difícil de dominar)
+
+No Scrum, trabalhamos com o conceito de escopo flexível. Em ambientes complexos, não sabemos tudo no início; por isso, o framework nos permite aprender e mudar de direção conforme o trabalho evolui.
+
+2. Objetivo do Scrum
+
+O coração do Scrum não é o cumprimento de tarefas, mas a co-criação de valor de negócio. O objetivo é entregar o máximo de valor possível em ciclos curtos de feedback. Essa jornada se sustenta em três pilares fundamentais:
+
+* Transparência: O trabalho deve ser visível para quem o executa e para quem o recebe.
+* Inspeção: O progresso e os artefatos devem ser verificados frequentemente para detectar variações indesejadas.
+* Adaptação: Se algo sair do rumo, o processo ou o produto deve ser ajustado o mais rápido possível para minimizar desperdícios.
+
+3. Principais Papéis (Scrum Team)
+
+O Time Scrum é uma unidade coesa de profissionais focada em um objetivo único. Lembre-se: não existe hierarquia interna, apenas responsabilidades diferentes.
+
+* Product Owner (PO): É o estrategista. Sua missão principal é maximizar o valor do produto resultante do trabalho do time. Ele é o único responsável pela gestão do Product Backlog e por decidir a ordem das prioridades.
+* Scrum Master (SM): É o Líder Servidor e coach de agilidade. Sua missão não é dar ordens, mas remover impedimentos, facilitar eventos e garantir que todos compreendam a teoria e a prática do Scrum.
+* Desenvolvedores: São os profissionais focados na execução. Eles têm o compromisso de criar qualquer aspecto de um incremento útil a cada Sprint, garantindo sempre a qualidade técnica.
+
+4. Eventos do Scrum (Cerimônias)
+
+Os eventos são oportunidades formais para inspeção e adaptação. Todos operam sob o conceito de Timebox (período de tempo máximo definido).
+
+1. Sprint: O ciclo de trabalho (o "pulso" do Scrum), geralmente de uma a quatro semanas.
+2. Sprint Planning: O planejamento onde o time define o que será feito e como o trabalho será realizado.
+3. Daily Scrum: Uma reunião diária de 15 minutos para os desenvolvedores alinharem o progresso rumo à Meta da Sprint.
+4. Sprint Review: O momento de inspecionar o resultado da Sprint (o incremento) e coletar feedback dos stakeholders.
+5. Sprint Retrospective: O evento focado em pessoas, processos e ferramentas, visando a melhoria contínua do time para a próxima Sprint.
+
+5. Principais Artefatos
+
+Os artefatos representam o trabalho ou o valor e são projetados para maximizar a transparência.
+
+Product Backlog
+
+A lista mestre e ordenada de tudo o que é necessário para o produto. É um documento vivo que evolui conforme o produto ganha vida.
+
+Sprint Backlog
+
+É o plano detalhado criado pelos Desenvolvedores para a Sprint atual. Ele inclui a Meta da Sprint e os itens selecionados do Product Backlog.
+
+Incremento
+
+É a soma de todos os itens do Product Backlog concluídos durante a Sprint. Um incremento só nasce quando o trabalho atende à Definição de Pronto (Definition of Done), garantindo que o produto seja funcional e seguro.
+
+6. Exemplo Prático de Aplicação
+
+Imagine que estamos desenvolvendo a funcionalidade de "Pagamento via Pix" em um app. No meu dia a dia como treinador, vejo o fluxo acontecer assim:
+
+* Priorização: O Product Owner identifica que o Pix é a maior prioridade e detalha esse item no topo do Product Backlog.
+* Planejamento: Durante a Planning, o PO apresenta o "O Quê" (a funcionalidade). Os Desenvolvedores, então, definem o "Como", quebrando essa funcionalidade em tarefas técnicas menores (ex: integração com API, design da tela, testes de segurança).
+* Uso de Ferramentas: O time pode usar o Microsoft Planner para visualizar o fluxo.
+  * Nota importante: Se você deseja usar a visualização específica de Sprints (com planejamento e metas temporais), o Planner exige uma licença Premium. Para usuários da versão básica, a alternativa é organizar o trabalho em Buckets (colunas) para representar os estágios do desenvolvimento.
+* Monitoramento: O time utiliza a Timeline view ou os Charts do Planner para monitorar o progresso e identificar gargalos visualmente. No final da Sprint, o Incremento (o Pix funcionando) é entregue.
+
+7. Erros Comuns na Implementação
+
+Ao longo da minha carreira, observei algumas armadilhas comuns que você deve evitar para garantir a verdadeira agilidade:
+
+* [ ] Product Owner como "Gatekeeper": O PO não deve ser um bloqueador que impede o time de falar com os stakeholders. Ele é um facilitador de valor, não um filtro burocrático.
+* [ ] Sprints sem Meta Clara: Se o time apenas "faz tarefas" sem um objetivo de negócio, o Scrum perde o propósito.
+* [ ] Daily Scrum como "Status Report": A Daily não é para prestar contas ao Scrum Master, mas para os Desenvolvedores se alinharem entre si.
+* [ ] Ignorar a Retrospectiva: Times que pulam a Retrospectiva param de evoluir e repetem os mesmos erros Sprint após Sprint.
+
+8. Perguntas para Revisão
+
+1. O que define o Scrum como um framework em vez de um processo estático?
+2. Qual papel do Scrum Team atua como um "Líder Servidor"?
+3. Qual a diferença crucial entre a Sprint Review e a Sprint Retrospective?
+4. O que acontece com um item de backlog concluído que não atende à "Definição de Pronto"?
+5. Qual é o tempo máximo (Timebox) sugerido para uma Daily Scrum?
+
+Gabarito para Revisão
+
+1. Sua natureza flexível, baseada em princípios e pilares, em vez de passos prescritivos e rígidos.
+2. O Scrum Master.
+3. A Review foca na inspeção do produto e feedback dos stakeholders; a Retrospective foca na melhoria do time e do processo.
+4. Ele não pode ser considerado parte do Incremento; deve retornar ao Product Backlog para ser reavaliado.
+5. 15 minutos.
+
+9. Resumo de Uma Página (Cheat Sheet)
+
+Matriz de Responsabilidades e Artefatos
+
+Papel	Responsabilidade Principal	Artefato Relacionado
+Product Owner	Maximizar o valor e gerir o Backlog	Product Backlog
+Scrum Master	Líder Servidor e Coach de Agilidade	Processo Scrum
+Desenvolvedores	Execução técnica e qualidade	Sprint Backlog / Incremento
+
+Dicas de Ouro para o Iniciante
+
+* Foque em Métricas de Saúde: Além do Velocity (quantidade de trabalho), observe o Lead Time (tempo total desde o pedido até a entrega) e o Cycle Time (tempo que o time leva para concluir uma tarefa após iniciá-la).
+* Limite o WIP (Work in Progress): Lembre-se: "Pare de começar e comece a terminar". Limitar o trabalho em progresso reduz o caos e acelera a entrega de valor.
+* Gestão à Vista: Use quadros visuais. Se não tiver acesso ao Planner Premium para Sprints, use os Buckets do Planner básico para garantir transparência total sobre quem está fazendo o quê.
+* Mentalidade Ágil: O Scrum falha em uma cultura de comando e controle. Confie no time e foque na adaptação constante.
